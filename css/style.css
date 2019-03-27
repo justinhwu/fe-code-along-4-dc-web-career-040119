@@ -76,6 +76,7 @@ img, video, audio {
 }
 
 * {
+  -web
   box-sizing: border-box;
 }
 
